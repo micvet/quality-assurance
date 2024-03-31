@@ -128,6 +128,50 @@ O desenvolvimento de software envolve uma série de atividades essenciais que s�
 
 **2.5.8. Encerramento de Testes:** Ao atingir o fim dos testes planejados, são realizadas atividades de encerramento que incluem a resolução de defeitos pendentes, a identificação e arquivamento de elementos de teste úteis para o futuro, e a análise de lições aprendidas para melhorar projetos futuros.
 
+##2.6. Tipos de Teste de Software
+De acordo com o ISTQB, os testes podem ser classificados em função do estágio do ciclo de vida ou em função do objetivo de teste.
 
+**2.6.1.** Classificação dos Testes de Acordo com o Estágio do Ciclo de Vida do Produto:
 
+Essa abordagem se concentra em avaliar o software em diferentes fases do seu desenvolvimento e implementação.<br>
+Pode incluir:
+
+* Teste de Unidade: Avaliação individual dos componentes do software para garantir seu funcionamento correto. Geralmente feito pelo desenvolvedor e pode envolver simulação de dependências.
+
+* Teste de Integração: Verificação das interações entre os diferentes módulos ou componentes do sistema para garantir sua integração adequada. Pode ser conduzido em vários níveis, incluindo integração entre componentes e integração entre sistemas.
+
+* Teste de Sistema: Avaliação do sistema como um todo para verificar se atende aos requisitos funcionais e não funcionais. O ambiente de teste deve refletir o ambiente de produção o máximo possível.
+
+* Teste de Aceitação: Conduzido pelos usuários finais ou clientes para validar se o sistema atende às suas necessidades deles. 
+
+* Teste de Manutenção: Realizado após modificações no sistema para garantir que as alterações não introduzam novos defeitos.
+
+**2.6.2.** Classificação dos Testes de Acordo com o Objetivo do Teste:
+
+Esse conjunto de tipos de teste visa abordar diferentes aspectos do software além de sua funcionalidade básica:
+
+* Teste Funcional: Verificação das funcionalidades do software com base nos requisitos especificados. Visa garantir que o software realize as operações esperadas corretamente. Considera o comportamento externo do software (teste de caixa-preta).
+
+* Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os testes:
+** Teste de desempenho; 
+** Teste de carga; 
+** Teste de estresse; 
+** Teste de usabilidade; 
+** Teste de interoperabilidade; 
+** Teste de manutenibilidade; 
+** Teste de confiabilidade; 
+** Teste de segurança; 
+** Teste de portabilidade.
+
+* Teste Estrutural (Teste de Caixa Branca): Avaliação da estrutura interna do software, examinando o código fonte e sua execução para garantir que a lógica do programa seja correta e eficiente.
+
+* Teste de API: Verificação das interfaces de programação de aplicativos (APIs) para garantir que se comuniquem corretamente e forneçam os resultados esperados.
+
+* Smoke Test: Verificação rápida das principais funcionalidades do software para garantir que esteja estável o suficiente para testes mais detalhados.
+
+* Teste Exploratório: Abordagem de teste não estruturada, onde os testadores exploram o software dinamicamente para descobrir defeitos inesperados.
+
+* Teste de Acessibilidade: Avaliação do software para garantir que seja acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras.
+
+* Teste de Máquinas de Estado: Avaliação do comportamento do software em diferentes estados ou condições, verificando se as transições entre estados ocorrem corretamente e sem falhas.
 
