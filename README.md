@@ -6,8 +6,9 @@ A Garantia de Qualidade (QA - Quality Assurance) é focada em garantir que os pr
 
 É importante destacar que embora o termo QA seja associado ao desenvolvimento de software, o conceito de garantir a qualidade pode ser aplicado a uma variedade de áreas da tecnologia.
 
-No campo de desenvolvimento de software, a QA é de suma importância para garantir uma entrega final de qualidade, confiança e com custos reduzidos. Podemos entender melhor os conceitos e importância do Software QA, no [resumo](https://github.com/micvet/software-qa/blob/main/files/software-quality-assurance-fundamentos.MD), criado por mim para meus estudos para a certificação [Accredited Software Testing Fundamentals Certification (AICS® ASTFC)](https://github.com/micvet/software-qa/blob/main/files/Certificado%20-%20Accredited%20Software%20Testing%20Fundamentals%20Certification%20(AICS_ASTFC).pdf).
-
+No campo de desenvolvimento de software, a QA é de suma importância para garantir uma entrega final de qualidade, confiança e com custos reduzidos. Podemos entender melhor os conceitos e importância do Software QA, no resumo criado por mim para meus estudos para a certificação Accredited Software Testing Fundamentals Certification (AICS® ASTFC):
+* [Resumo](https://github.com/micvet/software-qa/blob/main/files/software-quality-assurance-fundamentos.MD)
+* [Certificação](https://github.com/micvet/software-qa/blob/main/files/Certificado%20-%20Accredited%20Software%20Testing%20Fundamentals%20Certification%20(AICS_ASTFC).pdf)
 
 
 
