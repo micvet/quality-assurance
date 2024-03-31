@@ -77,8 +77,8 @@ Os princípios da execução dos testes inclui os seguintes conceitos: <br>
 
 **2.4.2. Diferenças entre QA e QC** <br>
 
-* QA:  foca em processos preventivos para verificar o software em desenvolvimento.
-* QC: concentra-se em medidas corretivas, examinando o produto acabado para garantir seu desenvolvimento conforme os requisitos definidos.
+* QA (Quality Assurance):  foca em processos preventivos para verificar o software em desenvolvimento.
+* QC (Quality Control): concentra-se em medidas corretivas, examinando o produto acabado para garantir seu desenvolvimento conforme os requisitos definidos.
 
 Em resumo, o QA tem um escopo mais amplo, enquanto QC se aprofunda em aspectos de execução e verificação, como testes.
 
@@ -106,7 +106,7 @@ Em resumo, a verificação constante assegura que cada ajuste cumpra com as norm
 
 **2.5.6. Cargos comuns numa equipe de testes:**
 
-* Líder/Gerente de Testes (Test Lead/Manager): Responsável por liderar o processo de testes, definindo e planejando as atividades de testes para a equipe, garantindo recursos adequados, supervisionando a alinhamento entre testes e desenvolvimento de software, gerando relatórios de status e mantendo uma comunicação eficaz com a equipe e clientes. Necessita de experiência em gestão e liderança.
+* Gerente de Testes (Test Manager): Responsável por liderar o processo de testes, definindo e planejando as atividades de testes para a equipe, garantindo recursos adequados, supervisionando a alinhamento entre testes e desenvolvimento de software, gerando relatórios de status e mantendo uma comunicação eficaz com a equipe e clientes. Necessita de experiência em gestão e liderança.
 
 * Engenheiro de Testes (Test Engineer): Responsável pela execução dos testes, incluindo compreensão e análise de documentos para identificar o que será testado, colaboração com o gerente de testes para determinar recursos necessários, desenvolvimento e execução de casos de teste, relatório e priorização de defeitos. Suas habilidades devem ser focados em habilidades técnicas de teste.
 
