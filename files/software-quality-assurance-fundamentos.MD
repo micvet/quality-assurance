@@ -2,23 +2,23 @@
 
 * Este arquivo teve como base para sua criação o [Guia de Fundamentos de Testes](https://aicsvirtual.org/wp-content/uploads/2024/01/Guia-rapida-de-Fundamentos-del-Testing%E2%84%A2-3.pdf), da Asociación Internacional de Calidad de Software ™ e o documento ["Tipos de Teste de Software"](https://edisciplinas.usp.br/pluginfile.php/384739/mod_resource/content/1/Aula%205_2014_Tipos-de-teste-software-v2.pdf), do Departamento de Sistemas Eletrônicos da Escola Politécnica da USP. 
 
-## 1) Conceituando a construção de um Software
+## 1) :computer: Conceituando a construção de um Software 
 Software é um conjunto de instruções ou programas de computador que são executados em um dispositivo eletrônico, como um computador, smartphone, ou outro dispositivo inteligente, e é projetado para oferecer funcionalidades específicas para os usuários. 
 
 Possui um ciclo de vida, que pode variar muito a depender da matodologia utilizada em seu desenvolvimento, necessidades do projetos, etc. Mas de uma forma geral, podemos resumir seu ciclo de vida em:
-### 1.1. Concepção:
+### 1.1. :page_with_curl: Concepção:
 
 Nesta fase, as necessidades e requisitos do software são identificados e documentados. Isso pode envolver a coleta de requisitos dos stakeholders, análise de mercado e definição de objetivos para o software.
 
-### 1.2. Design:
+### 1.2. :pencil2: Design:
 
 Nessa fase, os requisitos coletados na fase anterior são transformados em um design técnico, incluindo a arquitetura do sistema, a definição de interfaces de usuário, o design de banco de dados, etc.
 
-### 1.3. Desenvolvimento:
+### 1.3. :bookmark_tabs: Desenvolvimento:
 
 Nesta etapa, o software é construído com base no design. Os desenvolvedores escrevem código, criam interfaces de usuário, implementam funcionalidades, integram componentes do sistema, etc.\
 
-### 1.4. Testes:
+### 1.4. :mag_right: Testes:
 
 Os testes são uma parte crucial do ciclo de vida do software e podem ocorrer em várias etapas do seu ciclo de vida, a depender do objetivo r metodologia utilizada no desenvolvimento da aplicação.
 Implantação/Implementação:
@@ -26,10 +26,10 @@ Implantação/Implementação:
 Após o software ser desenvolvido e testado, ele está pronto para ser implantado em um ambiente de produção. Isso pode envolver a instalação do software em servidores, a configuração de sistemas de banco de dados, etc.
 Após a implantação, o software entra na fase de manutenção.
 
-### 1.5. Manutenção:
+### 1.5. :wrench: Manutenção:
 Nesta etapa, o software é mantido, atualizado e aprimorado com o passar do tempo. Isso pode envolver a correção de bugs, a implementação de novos recursos, a otimização de desempenho, etc.
 
-### 1.6. Descontinuação:
+### 1.6. :bomb: Descontinuação:
 
 Em algum momento, o software pode ser retirado do mercado ou descontinuado devido a mudanças nas necessidades do usuário, avanços tecnológicos ou diversos outros motivos.<br>  
 
@@ -37,11 +37,11 @@ Um fator de grande importância quando abordamos o ciclo de vida de um software,
 
 ## 2. Teste de Software
 
-### 2.1. O que é o teste de software?
+### 2.1. :grey_question: O que é o teste de software?
 
 Um teste de software é muito mais que simplesmente realizar um teste e documentar resultados. É o conjunto de atividades que garantem a qualidade do software e reduzem os riscos de falhas. Pode ser realizado em diferentes etapas do ciclo de vida do software.
 
-### 2.2. Objetivos e benefícios do teste de software
+### 2.2. :white_check_mark: Objetivos e benefícios do teste de software
 
 **Principais objetivos:**<br>
 * Garantir a qualidade do software, assegurando que atenda aos requisitos e seja confiável.
@@ -57,7 +57,7 @@ Um teste de software é muito mais que simplesmente realizar um teste e document
 * Redução de riscos ao identificar problemas de segurança ou integridade de dados.
 * Melhoria da qualidade do software ao detectar e corrigir problemas.
 
-### 2.3. Principios do teste de software
+### 2.3. :blue_heart: Principios do teste de software
 Os princípios da execução dos testes inclui os seguintes conceitos: <br>
 
 * Detecção precoce de defeitos: a detecção precoce de defeitos aumenta a qualidade e economia de recursos do software.
@@ -67,7 +67,7 @@ Os princípios da execução dos testes inclui os seguintes conceitos: <br>
 * A ausência de erros é uma falácia, mas é possível alcançar um risco aceitável de falhas.
 * A importância de adaptar o enfoque de testes ao contexto do software.
 
-### 2.4. Outros conceitos importantes:<br> 
+### 2.4. :grey_exclamation: Outros conceitos importantes:<br> 
 
 **2.4.1.  Diferença entre Erros, Defeitos e Falhas**<br>
 
@@ -110,7 +110,7 @@ Em resumo, a verificação constante assegura que cada ajuste cumpra com as norm
 
 * Engenheiro de Testes (Test Engineer): Responsável pela execução dos testes, incluindo compreensão e análise de documentos para identificar o que será testado, colaboração com o gerente de testes para determinar recursos necessários, desenvolvimento e execução de casos de teste, relatório e priorização de defeitos. Suas habilidades devem ser focados em habilidades técnicas de teste.
 
-### 2.5. Fases do processo de testes<br>
+### 2.5. :bookmark_tabs: Fases do processo de testes<br>
 
 O desenvolvimento de software envolve uma série de atividades essenciais que são executadas de forma relacionada. Essas atividades geralmente ocorrem em uma sequência lógica, mas sua implementação pode variar conforme as necessidades do projeto. Essas fases são:
 
@@ -128,7 +128,7 @@ O desenvolvimento de software envolve uma série de atividades essenciais que s�
 
 **2.5.8. Encerramento de Testes:** Ao atingir o fim dos testes planejados, são realizadas atividades de encerramento que incluem a resolução de defeitos pendentes, a identificação e arquivamento de elementos de teste úteis para o futuro, e a análise de lições aprendidas para melhorar projetos futuros.
 
-## 2.6. Tipos de Teste de Software
+## 2.6. :bookmark_tabs: Tipos de Teste de Software
 De acordo com o ISTQB, os testes podem ser classificados em função do estágio do ciclo de vida ou em função do objetivo de teste.
 
 **2.6.1.** Classificação dos Testes de Acordo com o Estágio do Ciclo de Vida do Produto:
