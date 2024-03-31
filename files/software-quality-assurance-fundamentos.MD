@@ -136,13 +136,13 @@ De acordo com o ISTQB, os testes podem ser classificados em função do estágio
 Essa abordagem se concentra em avaliar o software em diferentes fases do seu desenvolvimento e implementação.<br>
 Pode incluir:
 
-* Teste de Unidade: Avaliação individual dos componentes do software que são testáveis separadamente, para garantir seu funcionamento correto. Geralmente feito pelo desenvolvedor e pode envolver o uso de simulação.
+* :mag_right: Teste de Unidade: Avaliação individual dos componentes do software que são testáveis separadamente, para garantir seu funcionamento correto. Geralmente feito pelo desenvolvedor e pode envolver o uso de simulação.
 
-* Teste de Integração: Verificação das interações entre os diferentes módulos ou componentes do sistema para garantir sua integração adequada. Pode ser conduzido em vários níveis, incluindo integração entre componentes e integração entre sistemas. Em cada parte do teste, deve-se concentrar em uma integração específica.
+* :mag_right: Teste de Integração: Verificação das interações entre os diferentes módulos ou componentes do sistema para garantir sua integração adequada. Pode ser conduzido em vários níveis, incluindo integração entre componentes e integração entre sistemas. Em cada parte do teste, deve-se concentrar em uma integração específica.
 
-* Teste de Sistema: Avaliação do sistema como um todo para verificar se atende aos requisitos funcionais e não funcionais. O ambiente de teste deve refletir o ambiente de produção o máximo possível. 
+* :mag_right: Teste de Sistema: Avaliação do sistema como um todo para verificar se atende aos requisitos funcionais e não funcionais. O ambiente de teste deve refletir o ambiente de produção o máximo possível. 
 
-* Teste de Aceitação: Conduzido pelos usuários finais ou clientes para validar se o sistema atende às suas necessidades deles. Pode ser realizado a nível de componente ou a nível do sistema, e é dividido em alfa e beta, onde Alfa é realizado pelos clientes on-site, e o Beta é realizado nas próprias localidades dos clientes.
+* :mag_right: Teste de Aceitação: Conduzido pelos usuários finais ou clientes para validar se o sistema atende às suas necessidades deles. Pode ser realizado a nível de componente ou a nível do sistema, e é dividido em alfa e beta, onde Alfa é realizado pelos clientes on-site, e o Beta é realizado nas próprias localidades dos clientes.
 
 * Teste de Manutenção: Realizado após modificações no sistema para garantir que as alterações não introduzam novos defeitos.
 
@@ -150,9 +150,9 @@ Pode incluir:
 
 Esse conjunto de tipos de teste visa abordar diferentes aspectos do software além de sua funcionalidade básica:
 
-* Teste Funcional: Verificação das funcionalidades do software com base nos requisitos especificados. Visa garantir que o software realize as operações esperadas corretamente. Considera o comportamento externo do software (teste de caixa-preta).<br>
+* :mag_right: Teste Funcional: Verificação das funcionalidades do software com base nos requisitos especificados. Visa garantir que o software realize as operações esperadas corretamente. Considera o comportamento externo do software (teste de caixa-preta).<br>
 
-* Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os seguintes testes:<br>
+* :mag_right: Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os seguintes testes:<br>
 
     * **Teste de desempenho:** avalia como o sistema se comporta em termos de velocidade, eficiência e escalabilidade. Verifica se o software responde rapidamente às solicitações dos usuários, processa uma grande quantidade de dados de forma eficiente e mantém um bom desempenho em diferentes condições de carga. 
 
@@ -183,8 +183,8 @@ Esse conjunto de tipos de teste visa abordar diferentes aspectos do software al�
    * **Teste de Máquinas de Estado:** Avaliação do comportamento do software em diferentes estados ou condições, verificando se as transições entre estados ocorrem corretamente e sem falhas.
 
 
-* Teste Estrutural (Teste de Caixa Branca): Avaliação da estrutura interna do software, examinando o código fonte e sua execução para garantir que a lógica do programa seja correta e eficiente.
+* :mag_right: Teste Estrutural (Teste de Caixa Branca): Avaliação da estrutura interna do software, examinando o código fonte e sua execução para garantir que a lógica do programa seja correta e eficiente.
    * **Exemplo de teste estrutural:**  Usar testes manuais ou automatizados para verificação de aderência a boas práticas de codificação.
 
-* Teste de regressão: são os testes realizados novamente em um programa que já foi testado anteriormente, após sua modificação, para descobrir a existência de algum defeito introduzido ou não coberto originalmente pela mudança. É realizado para garantir que as alterações não tenham efeitos colaterais indesejados em outras partes do sistema.
+* :mag_right: Teste de regressão: são os testes realizados novamente em um programa que já foi testado anteriormente, após sua modificação, para descobrir a existência de algum defeito introduzido ou não coberto originalmente pela mudança. É realizado para garantir que as alterações não tenham efeitos colaterais indesejados em outras partes do sistema.
 
