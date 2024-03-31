@@ -128,7 +128,7 @@ O desenvolvimento de software envolve uma série de atividades essenciais que s�
 
 **2.5.8. Encerramento de Testes:** Ao atingir o fim dos testes planejados, são realizadas atividades de encerramento que incluem a resolução de defeitos pendentes, a identificação e arquivamento de elementos de teste úteis para o futuro, e a análise de lições aprendidas para melhorar projetos futuros.
 
-##2.6. Tipos de Teste de Software
+## 2.6. Tipos de Teste de Software
 De acordo com o ISTQB, os testes podem ser classificados em função do estágio do ciclo de vida ou em função do objetivo de teste.
 
 **2.6.1.** Classificação dos Testes de Acordo com o Estágio do Ciclo de Vida do Produto:
