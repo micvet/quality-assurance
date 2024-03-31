@@ -136,13 +136,13 @@ De acordo com o ISTQB, os testes podem ser classificados em função do estágio
 Essa abordagem se concentra em avaliar o software em diferentes fases do seu desenvolvimento e implementação.<br>
 Pode incluir:
 
-* Teste de Unidade: Avaliação individual dos componentes do software para garantir seu funcionamento correto. Geralmente feito pelo desenvolvedor e pode envolver simulação de dependências.
+* Teste de Unidade: Avaliação individual dos componentes do software que são testáveis separadamente, para garantir seu funcionamento correto. Geralmente feito pelo desenvolvedor e pode envolver o uso de simulação.
 
-* Teste de Integração: Verificação das interações entre os diferentes módulos ou componentes do sistema para garantir sua integração adequada. Pode ser conduzido em vários níveis, incluindo integração entre componentes e integração entre sistemas.
+* Teste de Integração: Verificação das interações entre os diferentes módulos ou componentes do sistema para garantir sua integração adequada. Pode ser conduzido em vários níveis, incluindo integração entre componentes e integração entre sistemas. Em cada parte do teste, deve-se concentrar em uma integração específica.
 
-* Teste de Sistema: Avaliação do sistema como um todo para verificar se atende aos requisitos funcionais e não funcionais. O ambiente de teste deve refletir o ambiente de produção o máximo possível.
+* Teste de Sistema: Avaliação do sistema como um todo para verificar se atende aos requisitos funcionais e não funcionais. O ambiente de teste deve refletir o ambiente de produção o máximo possível. 
 
-* Teste de Aceitação: Conduzido pelos usuários finais ou clientes para validar se o sistema atende às suas necessidades deles. 
+* Teste de Aceitação: Conduzido pelos usuários finais ou clientes para validar se o sistema atende às suas necessidades deles. Pode ser realizado a nível de componente ou a nível do sistema, e é dividido em alfa e beta, onde Alfa é realizado pelos clientes on-site, e o Beta é realizado nas próprias localidades dos clientes.
 
 * Teste de Manutenção: Realizado após modificações no sistema para garantir que as alterações não introduzam novos defeitos.
 
@@ -150,30 +150,41 @@ Pode incluir:
 
 Esse conjunto de tipos de teste visa abordar diferentes aspectos do software além de sua funcionalidade básica:
 
-* Teste Funcional: Verificação das funcionalidades do software com base nos requisitos especificados. Visa garantir que o software realize as operações esperadas corretamente. Considera o comportamento externo do software (teste de caixa-preta).
+* Teste Funcional: Verificação das funcionalidades do software com base nos requisitos especificados. Visa garantir que o software realize as operações esperadas corretamente. Considera o comportamento externo do software (teste de caixa-preta).<br>
 
-    * Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os seguintes testes:<br>
-    * Teste de desempenho: avalia como o sistema se comporta em termos de velocidade, eficiência e escalabilidade. Verifica se o software responde rapidamente às solicitações dos usuários, processa uma grande quantidade de dados de forma eficiente e mantém um bom desempenho em diferentes condições de carga. 
-    * Teste de carga: avalia o comportamento do sistema sob uma carga específica, simulando condições reais de uso. Verifica como o sistema se comporta quando submetido a um volume normal, máximo ou além do normal de usuários, transações ou dados. 
-    * Teste de estresse: avalia o comportamento do sistema quando submetido a condições extremas ou além das especificações normais. Verifica a estabilidade e a capacidade de recuperação do sistema sob pressão intensa, como picos repentinos de tráfego, falhas de hardware ou recursos limitados.
-    * Teste de usabilidade: avalia a facilidade de uso e a experiência do usuário ao interagir com o software. Investiga se o sistema é intuitivo, identificando possíveis problemas de navegação, layout, design e acessibilidade.
-    * Teste de interoperabilidade: verifica a capacidade do software de interagir e operar de forma integrada com outros sistemas, plataformas ou dispositivos. Garante que o software possa compartilhar dados e funcionalidades de forma eficaz e sem problemas de compatibilidade.
-    * Teste de manutenibilidade: avalia a facilidade com que o software pode ser mantido, atualizado ou modificado após o lançamento. Analisa a estrutura do código, a documentação e a facilidade de compreensão para garantir que futuras alterações possam ser feitas de forma eficiente e sem novos problemas.
-    * Teste de confiabilidade: verifica a capacidade do sistema de realizar suas funções de forma consistente e livre de falhas ao longo do tempo. Analisa a estabilidade, a disponibilidade e a tolerância a falhas do software para garantir uma operação confiável em diferentes condições.
-    * Teste de segurança: avalia a robustez do software em relação a ameaças de segurança, como ataques de hackers, vazamento de dados ou violações de privacidade. Identifica vulnerabilidades e falhas de segurança para garantir a proteção adequada dos sistemas.
-    * Teste de portabilidade: verifica a capacidade do software de ser executado com sucesso em diferentes ambientes, sistemas operacionais, dispositivos ou plataformas. Garante que o software seja compatível e funcione corretamente em uma variedade de configurações, sem perda de funcionalidade ou desempenho.
+* Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os seguintes testes:<br>
 
+    * **Teste de desempenho:** avalia como o sistema se comporta em termos de velocidade, eficiência e escalabilidade. Verifica se o software responde rapidamente às solicitações dos usuários, processa uma grande quantidade de dados de forma eficiente e mantém um bom desempenho em diferentes condições de carga. 
+
+    * **Teste de carga:** avalia o comportamento do sistema sob uma carga específica, simulando condições reais de uso. Verifica como o sistema se comporta quando submetido a um volume normal, máximo ou além do normal de usuários, transações ou dados. 
+
+    * **Teste de estresse:** avalia o comportamento do sistema quando submetido a condições extremas ou além das especificações normais. Verifica a estabilidade e a capacidade de recuperação do sistema sob pressão intensa, como picos repentinos de tráfego, falhas de hardware ou recursos limitados.
+
+    * **Teste de usabilidade:** avalia a facilidade de uso e a experiência do usuário ao interagir com o software. Investiga se o sistema é intuitivo, identificando possíveis problemas de navegação, layout, design e acessibilidade.
+
+    * **Teste de interoperabilidade:** verifica a capacidade do software de interagir e operar de forma integrada com outros sistemas, plataformas ou dispositivos. Garante que o software possa compartilhar dados e funcionalidades de forma eficaz e sem problemas de compatibilidade.
+
+    * **Teste de manutenibilidade:** avalia a facilidade com que o software pode ser mantido, atualizado ou modificado após o lançamento. Analisa a estrutura do código, a documentação e a facilidade de compreensão para garantir que futuras alterações possam ser feitas de forma eficiente e sem novos problemas.
+
+    * **Teste de confiabilidade:** verifica a capacidade do sistema de realizar suas funções de forma consistente e livre de falhas ao longo do tempo. Analisa a estabilidade, a disponibilidade e a tolerância a falhas do software para garantir uma operação confiável em diferentes condições.
+
+    * **Teste de segurança:** avalia a robustez do software em relação a ameaças de segurança, como ataques de hackers, vazamento de dados ou violações de privacidade. Identifica vulnerabilidades e falhas de segurança para garantir a proteção adequada dos sistemas.
+
+    * **Teste de portabilidade:** verifica a capacidade do software de ser executado com sucesso em diferentes ambientes, sistemas operacionais, dispositivos ou plataformas. Garante que o software seja compatível e funcione corretamente em uma variedade de configurações, sem perda de funcionalidade ou desempenho.
+
+   * **Teste de API:** Verificação das interfaces de programação de aplicativos (APIs) para garantir que se comuniquem corretamente e forneçam os resultados esperados.
+
+   * **Smoke Test:** Verificação rápida das principais funcionalidades do software para garantir que esteja estável o suficiente para testes mais detalhados.
+
+   * **Teste Exploratório:** Abordagem de teste não estruturada, onde os testadores exploram o software dinamicamente para descobrir defeitos inesperados.
+
+   * **Teste de Acessibilidade:** Avaliação do software para garantir que seja acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras.
+
+   * **Teste de Máquinas de Estado:** Avaliação do comportamento do software em diferentes estados ou condições, verificando se as transições entre estados ocorrem corretamente e sem falhas.
 
 
 * Teste Estrutural (Teste de Caixa Branca): Avaliação da estrutura interna do software, examinando o código fonte e sua execução para garantir que a lógica do programa seja correta e eficiente.
+   * **Exemplo de teste estrutural:**  Usar testes manuais ou automatizados para verificação de aderência a boas práticas de codificação.
 
-* Teste de API: Verificação das interfaces de programação de aplicativos (APIs) para garantir que se comuniquem corretamente e forneçam os resultados esperados.
-
-* Smoke Test: Verificação rápida das principais funcionalidades do software para garantir que esteja estável o suficiente para testes mais detalhados.
-
-* Teste Exploratório: Abordagem de teste não estruturada, onde os testadores exploram o software dinamicamente para descobrir defeitos inesperados.
-
-* Teste de Acessibilidade: Avaliação do software para garantir que seja acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras.
-
-* Teste de Máquinas de Estado: Avaliação do comportamento do software em diferentes estados ou condições, verificando se as transições entre estados ocorrem corretamente e sem falhas.
+* Teste de regressão: são os testes realizados novamente em um programa que já foi testado anteriormente, após sua modificação, para descobrir a existência de algum defeito introduzido ou não coberto originalmente pela mudança. É realizado para garantir que as alterações não tenham efeitos colaterais indesejados em outras partes do sistema.
 
