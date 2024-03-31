@@ -144,7 +144,7 @@ Pode incluir:
 
 * :mag_right: Teste de Aceitação: Conduzido pelos usuários finais ou clientes para validar se o sistema atende às suas necessidades deles. Pode ser realizado a nível de componente ou a nível do sistema, e é dividido em alfa e beta, onde Alfa é realizado pelos clientes on-site, e o Beta é realizado nas próprias localidades dos clientes.
 
-* Teste de Manutenção: Realizado após modificações no sistema para garantir que as alterações não introduzam novos defeitos.
+* :mag_right: Teste de Manutenção: Realizado após modificações no sistema para garantir que as alterações não introduzam novos defeitos.
 
 **2.6.2.** Classificação dos Testes de Acordo com o Objetivo do Teste:
 
