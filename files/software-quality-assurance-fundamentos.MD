@@ -1,6 +1,6 @@
 # Fundamentos de teste de software
 
-* Este arquivo teve como base para sua criação o [Guia de Fundamentos de Testes](https://aicsvirtual.org/wp-content/uploads/2024/01/Guia-rapida-de-Fundamentos-del-Testing%E2%84%A2-3.pdf), da Asociación Internacional de Calidad de Software ™ e o documento ["Tipos de Teste de Software"](https://edisciplinas.usp.br/pluginfile.php/384739/mod_resource/content/1/Aula%205_2014_Tipos-de-teste-software-v2.pdf), do Departamento de Sistemas Eletrônicos da Escola Politécnica da USP. 
+* Este arquivo é um resumo que teve como base para sua criação o [Guia de Fundamentos de Testes](https://aicsvirtual.org/wp-content/uploads/2024/01/Guia-rapida-de-Fundamentos-del-Testing%E2%84%A2-3.pdf), da Asociación Internacional de Calidad de Software ™ e o documento ["Tipos de Teste de Software"](https://edisciplinas.usp.br/pluginfile.php/384739/mod_resource/content/1/Aula%205_2014_Tipos-de-teste-software-v2.pdf), do Departamento de Sistemas Eletrônicos da Escola Politécnica da USP. 
 
 ## 1) :computer: Conceituando a construção de um Software 
 Software é um conjunto de instruções ou programas de computador que são executados em um dispositivo eletrônico, como um computador, smartphone, ou outro dispositivo inteligente, e é projetado para oferecer funcionalidades específicas para os usuários. 
