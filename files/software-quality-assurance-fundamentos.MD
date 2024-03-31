@@ -39,7 +39,7 @@ Um fator de grande importância quando abordamos o ciclo de vida de um software,
 
 ### 2.1. O que é o teste de software?
 
-Um teste de software é muito mais que simplesmente realizar um teste e documentar resultados. Envolve atividades cque garantem a qualidade do software e reduzem os riscos de falhas. Pode ser realizado em diferentes etapas do ciclo de vida do software.
+Um teste de software é muito mais que simplesmente realizar um teste e documentar resultados. É o conjunto de atividades que garantem a qualidade do software e reduzem os riscos de falhas. Pode ser realizado em diferentes etapas do ciclo de vida do software.
 
 ### 2.2. Objetivos e benefícios do teste de software
 
