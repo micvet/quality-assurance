@@ -152,16 +152,18 @@ Esse conjunto de tipos de teste visa abordar diferentes aspectos do software al�
 
 * Teste Funcional: Verificação das funcionalidades do software com base nos requisitos especificados. Visa garantir que o software realize as operações esperadas corretamente. Considera o comportamento externo do software (teste de caixa-preta).
 
-* Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os testes:
-** Teste de desempenho; 
-** Teste de carga; 
-** Teste de estresse; 
-** Teste de usabilidade; 
-** Teste de interoperabilidade; 
-** Teste de manutenibilidade; 
-** Teste de confiabilidade; 
-** Teste de segurança; 
-** Teste de portabilidade.
+    * Teste Não Funcional: Avaliação de aspectos como desempenho, usabilidade, segurança e confiabilidade do software, que não estão relacionados diretamente às suas funcionalidades específicas. Inclui os seguintes testes:<br>
+    * Teste de desempenho: avalia como o sistema se comporta em termos de velocidade, eficiência e escalabilidade. Verifica se o software responde rapidamente às solicitações dos usuários, processa uma grande quantidade de dados de forma eficiente e mantém um bom desempenho em diferentes condições de carga. 
+    * Teste de carga: avalia o comportamento do sistema sob uma carga específica, simulando condições reais de uso. Verifica como o sistema se comporta quando submetido a um volume normal, máximo ou além do normal de usuários, transações ou dados. 
+    * Teste de estresse: avalia o comportamento do sistema quando submetido a condições extremas ou além das especificações normais. Verifica a estabilidade e a capacidade de recuperação do sistema sob pressão intensa, como picos repentinos de tráfego, falhas de hardware ou recursos limitados.
+    * Teste de usabilidade: avalia a facilidade de uso e a experiência do usuário ao interagir com o software. Investiga se o sistema é intuitivo, identificando possíveis problemas de navegação, layout, design e acessibilidade.
+    * Teste de interoperabilidade: verifica a capacidade do software de interagir e operar de forma integrada com outros sistemas, plataformas ou dispositivos. Garante que o software possa compartilhar dados e funcionalidades de forma eficaz e sem problemas de compatibilidade.
+    * Teste de manutenibilidade: avalia a facilidade com que o software pode ser mantido, atualizado ou modificado após o lançamento. Analisa a estrutura do código, a documentação e a facilidade de compreensão para garantir que futuras alterações possam ser feitas de forma eficiente e sem novos problemas.
+    * Teste de confiabilidade: verifica a capacidade do sistema de realizar suas funções de forma consistente e livre de falhas ao longo do tempo. Analisa a estabilidade, a disponibilidade e a tolerância a falhas do software para garantir uma operação confiável em diferentes condições.
+    * Teste de segurança: avalia a robustez do software em relação a ameaças de segurança, como ataques de hackers, vazamento de dados ou violações de privacidade. Identifica vulnerabilidades e falhas de segurança para garantir a proteção adequada dos sistemas.
+    * Teste de portabilidade: verifica a capacidade do software de ser executado com sucesso em diferentes ambientes, sistemas operacionais, dispositivos ou plataformas. Garante que o software seja compatível e funcione corretamente em uma variedade de configurações, sem perda de funcionalidade ou desempenho.
+
+
 
 * Teste Estrutural (Teste de Caixa Branca): Avaliação da estrutura interna do software, examinando o código fonte e sua execução para garantir que a lógica do programa seja correta e eficiente.
 
