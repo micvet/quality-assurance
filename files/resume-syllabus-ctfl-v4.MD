@@ -1,6 +1,6 @@
-# Resumo Syllabus CTFL v4
+# **Resumo Syllabus CTFL v4**
 
-1. O que é um teste?
+# 1. O que é um teste?
 
 Teste é um conjunto de atividades para descobrir defeitos e avaliar a qualidade de partes de um software. O teste inclui diversas atividades e deve ser alinhado com o ciclo de vida do software.
 Além da busca por erros, é importante se atentar ao fato de que o teste não serve apenas para validar os requisitos do programa, mas também para validar se atende às necessidades do cliente.
