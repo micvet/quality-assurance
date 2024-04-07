@@ -56,3 +56,47 @@ Definições:
 * Causa-raiz: a causa-raiz é o motivo que levou o produto a apresentar o defeito.
 
 # Princípios de Teste
+
+Existem diretrizes que podem ser aplicadas a todos os tipos de testes. São elas:
+
+1) Os testes revelam a presença, mas não a ausência de falhas: Eles podem indicar que há falhas no sistema testado, mas não podem garantir sua total correção.
+2) Testes exaustivos são impossíveis: Não é possível testar tudo. Em vez disso, devemos utilizar técnicas de teste, priorização de casos e testes baseados em riscos.
+3) Testes antecipados economizam tempo e dinheiro: Corrigir defeitos no início do processo evita problemas posteriores e reduz os custos de qualidade.
+4) Os defeitos se agrupam: A maioria dos problemas tendem a ser encontrados em algumas partes específicas do sistema.
+5) Os testes se degradam: Repetir os mesmos testes pode torná-los menos eficazes na detecção de novas falhas. Modificações nos testes ou a criação de novos podem ser necessárias.
+6) Os testes dependem do contexto: Não há uma abordagem única para todos os casos. Eles variam conforme as circunstâncias.
+7) Falácia da ausência de defeitos: A ideia equivocada de que veritifcar o software garante o sucesso do sistema. Mesmo testando e corrigindo todos os defeitos encontrados, o sistema pode não atender às expectativas dos usuários ou aos objetivos do cliente.
+
+# Atividades de teste, Testware e Papéis no teste 
+
+O teste varia conforme o contexto, mas geralmente envolve conjuntos comuns de atividades que formam um processo de teste. Esse processo pode ser adaptado conforme a situação e é decidido durante o planejamento do teste. Vamos ver os aspectos gerais do processo de teste:
+
+## Atividades e Tarefas de Teste
+
+O processo de teste compreende diversas etapas cruciais, as quais, embora possam ocorrer em paralelo ou de forma iterativa, desempenham papéis essenciais na garantia da qualidade do software.
+O Planejamento do Teste define metas e escolhe uma abordagem adequada para alcançá-las dentro das limitações contextuais, detalhado na seção 5.1.
+O Monitoramento e Controle do Teste envolve a supervisão contínua das atividades de teste, comparando o progresso real com o planejado e tomando medidas corretivas conforme necessário, conforme explicado na seção 5.3.
+A Análise de Teste compreende a identificação de recursos testáveis, priorização das condições de teste e avaliação dos riscos associados, respondendo à pergunta "o que testar?" com critérios de cobertura mensuráveis.
+A Modelagem de Teste elabora as condições de teste em casos de teste, identifica itens de cobertura e define requisitos de dados de teste e ambiente de teste, respondendo à pergunta "como testar?".
+
+## Processo de Teste no Contexto
+
+Os testes estão inseridos nos processos de desenvolvimento organizacional, financiados pelos stakeholders para atender às necessidades de negócio, variando conforme diversos fatores contextuais.
+Estes fatores influenciam aspectos como estratégias de teste, técnicas utilizadas e grau de automação, além de afetar questões como relatórios e documentação de teste.
+
+Testware
+
+O testware é gerado como produto das atividades de teste, com variações na forma como é produzido, organizado e gerenciado pelas organizações.
+
+Produtos de trabalho incluem planejamento de testes, monitoramento, análise, modelagem, implementação e execução de testes, entre outros.
+
+Rastreabilidade entre a Base de Teste e o Testware
+
+A rastreabilidade é fundamental para monitorar e controlar efetivamente os testes, estabelecendo conexões entre elementos da base de teste, testware associado, resultados dos testes e defeitos detectados.
+Ela apoia a avaliação da cobertura e facilita a detecção de mudanças e impactos durante o processo de teste, além de contribuir para auditorias e atender aos critérios de governança de TI.
+
+Papéis no Teste
+
+São abordados dois principais papéis nos testes: gerenciamento de testes e testador, com atividades e tarefas atribuídas variando de acordo com o contexto.
+
+As responsabilidades de gerenciamento de testes envolvem planejamento, monitoramento, controle e conclusão de testes, enquanto os testadores focam na análise, modelagem, implementação e execução de testes.
