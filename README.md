@@ -16,7 +16,8 @@ No campo de desenvolvimento de software, a QA é de suma importância para garan
 
 Para nos aprofundarmos ainda mais no campo da qualidade de software e atestarmos nosso conhecimento, uma das podemos estudar para a Certified Tester Foundation Level (CTFL). A CTFL é uma certificação reconhecida internacionalmente para profissionais de teste de software. Os estudos para esta cetificação fornecem uma base sólida em princípios fundamentais, técnicas e práticas de testes.
 
-* Importância do CTFL
+* Importância do CTFL <br>
+
 Com a crescente demanda por produtos de software de alta qualidade, é importante que os profissionais de teste de software possuam as habilidades e conhecimentos necessários para garantir a eficácia e confiabilidade dos sistemas. O CTFL oferece material para entender os princípios de teste de software.
 
 Como parte dos meus estudos, estou realizando um resumo do Certified Tester Foundation Level Syllabus. Os resumos fornecem uma visão geral dos tópicos-chave, facilitando a revisão e o estudo. Resumir o material facilita o entendimento e promove o aprendizado ativo e fornecerão uma referência para os conceitos essenciais do exame, útil durante a preparação para a prova.
