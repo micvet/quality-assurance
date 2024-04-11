@@ -15,8 +15,8 @@ a serem levados em conta:
 
 ## Fundamentos de aplicações Web e Redes
 
-* Fundamentos de redes
-* Arquitetura da internet e protocolos importantes
+* [Fundamentos de redes](https://github.com/micvet/cisco_network)
+* [Arquitetura da internet e protocolos importantes](https://github.com/micvet/cisco_network)
 * Funcionamento de webpages
 * Linguagens e tecnologias
 * Fundamentos de ciência da computação
@@ -40,12 +40,14 @@ Padrões de projeto e arquitetura de sistemas
 * Tipos de Arquitetura e
 * Modelagem de sistemas
 
-##Testes automatizados
+## Testes automatizados
 
 * Pirâmide de testes
 * Automação como investimento
 * Tipos de testes automatizados
 * Frameworks para automação
+  * [Selenium](https://github.com/micvet/extracao_dados_selenium/blob/main/arquivos/Selenium.MD)
+  * Cypress
 * Objetos falsos e seus tipos
 * BDD e linguagem Gherkin
 
