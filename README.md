@@ -39,7 +39,7 @@ Isso pode ser feito com o uso de diversas ferramentas e linguagens:
 
 * Selenium e Python:
 Selenium é uma ferramenta de automação de testes amplamente utilizada para testar aplicativos da web. Permite a automação de ações do navegador, como clicar em botões, preencher formulários, etc. Juntamente com o Python, podemos criar scripts de automação para validar aplicativos da web.
-  * [Selenium](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/Selenium.MD);
+  * [Selenium](https://github.com/micvet/extracao_dados_selenium/blob/main/arquivos/Selenium.MD);
   * [Exemplo de Script desenvolvido com Selenium e Python](https://github.com/micvet/extracao_dados_selenium).
 
 * Cypress:
