@@ -31,7 +31,7 @@ Entender conceitos básicos de áreas como redes e programação, entre outros, 
 
 Como parte dos meus estudos, estou realizando resumos de diversas áreas que julgo serem relevantes para qualquer profissional de tecnologia e principalmente, para QAs. 
 
-* [Conceitos básicos](https://github.com/micvet/quality-assurance/tree/main/Conceitos-importantes)
+* [Conceitos básicos](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/Conceitos-basicos.MD)
 
 # Automação de Testes 
 Já o conhecimento em automação de testes para profissionais de QA, aumentam a eficiência dos testes, consistência, cobertura, detecção precoce de problemas e facilitam a integração contínua. A automação do ambiente de testes envolve o uso de ferramentas e scripts para configurar, gerenciar e executar automaticamente os testes de software em um ambiente controlado.
