@@ -43,6 +43,7 @@ Selenium é uma ferramenta de automação de testes amplamente utilizada para te
   * [Exemplo de Script desenvolvido com Selenium e Python](https://github.com/micvet/extracao_dados_selenium).
 
 * Cypress:
+ * [O que é o Cypress](https://github.com/micvet/quality-assurance/blob/main/Automacoes-Cypress/Cypress.MD) 
 
 
 
