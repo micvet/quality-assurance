@@ -47,7 +47,7 @@ Padrões de projeto e arquitetura de sistemas
 * Tipos de testes automatizados
 * Frameworks para automação
   * [Selenium](https://github.com/micvet/extracao_dados_selenium/blob/main/arquivos/Selenium.MD)
-  * Cypress
+  * [Cypress](https://github.com/micvet/quality-assurance/blob/main/Automacoes-Cypress/Cypress.MD)
 * Objetos falsos e seus tipos
 * BDD e linguagem Gherkin
 
