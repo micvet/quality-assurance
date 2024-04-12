@@ -5,7 +5,7 @@ a serem levados em conta:
 
 ## Conceitos básicos:
 
-* [Definição de conceitos básicos] (https://github.com/micvet/quality-assurance/blob/main/files/resumo-syllabus-ctfl-v4.MD)
+* [Definição de conceitos básicos](https://github.com/micvet/quality-assurance/blob/main/files/resumo-syllabus-ctfl-v4.MD)
 
 ## Fundamentos de aplicações Web e Redes
 
