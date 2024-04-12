@@ -55,10 +55,10 @@ Padrões de projeto e arquitetura de sistemas
 
 ## Características do software
 
-* [Funcionalidade](Conceitos-importantes/caracteristicas-do-software.MD)
-* [Confiabilidade](Conceitos-importantes/caracteristicas-do-software.MD)
-* [Usabilidade](Conceitos-importantes/caracteristicas-do-software.MD)
-* [Eficiência](Conceitos-importantes/caracteristicas-do-software.MD)
-* [Manutenibilidade](Conceitos-importantes/caracteristicas-do-software.MD)
-* [Portabilidade](Conceitos-importantes/caracteristicas-do-software.MD)
+* [Funcionalidade](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/caracteristicas-do-software.MD)
+* [Confiabilidade](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/caracteristicas-do-software.MD)
+* [Usabilidade](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/caracteristicas-do-software.MD)
+* [Eficiência](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/caracteristicas-do-software.MD)
+* [Manutenibilidade](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/caracteristicas-do-software.MD)
+* [Portabilidade](https://github.com/micvet/quality-assurance/blob/main/Conceitos-importantes/caracteristicas-do-software.MD)
 
