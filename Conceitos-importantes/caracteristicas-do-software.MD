@@ -12,13 +12,13 @@ combinação de funcionalidade, confiabilidade, usabilidade e eficiência.
 
 Suas subcaracterísticas são:
 
-   - Adequação: Refere-se à capacidade do software em oferecer um conjunto apropriado de funções para as tarefas do usuário.
+      - Adequação: Refere-se à capacidade do software em oferecer um conjunto apropriado de funções para as tarefas do usuário.
 
-   - Acurácia: Diz respeito à capacidade do software em fornecer resultados corretos com o grau de precisão necessário.
+      - Acurácia: Diz respeito à capacidade do software em fornecer resultados corretos com o grau de precisão necessário.
 
-   - Interoperabilidade: Refere-se à capacidade do software em interagir com sistemas especificados, substituindo a compatibilidade para evitar ambiguidades.
+      - Interoperabilidade: Refere-se à capacidade do software em interagir com sistemas especificados, substituindo a compatibilidade para evitar ambiguidades.
 
-   - Segurança de acesso: Diz respeito à capacidade do software em proteger informações contra acesso não autorizado, incluindo dados em transmissão.
+      - Segurança de acesso: Diz respeito à capacidade do software em proteger informações contra acesso não autorizado, incluindo dados em transmissão.
 
 * Confiabilidade 
 
