@@ -61,7 +61,7 @@ Suas subcaracterísticas são:
 estabelecidas.
 * Utilização de Recursos: Capacidade de usar tipos e quantidades apropriados de recursos durante a execução das funções, incluindo recursos humanos.
 
-:white_check_mark: Manutenibilidade 
+5. Manutenibilidade 
 
 Manutenibilidade é a capacidade do produto de software de ser modificado, incluindo correções, melhorias ou adaptações devido a mudanças no ambiente ou nos 
 requisitos funcionais.
@@ -77,7 +77,7 @@ modificadas.
 
 * Testabilidade: é a capacidade do software de permitir que modificações sejam validadas por meio de testes.
 
-5. Portabilidade
+6. Portabilidade
 
 Portabilidade é a capacidade do software de ser transferido de um ambiente para outro.
 
