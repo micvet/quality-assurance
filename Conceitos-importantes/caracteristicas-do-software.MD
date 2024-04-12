@@ -3,7 +3,7 @@
 A Norma ISO/IEC 9126 define algumas características de qualidade de software, que são essenciais para avaliar e garantir a excelência do produto.
 Essas características são:
 
-* Funcionalidade 
+:white_check_mark: Funcionalidade 
 
 A funcionalidade é a capacidade do produto de software em fornecer funções que atendam às necessidades explícitas e implícitas, sob condições especificadas. 
 É uma característica essencial para avaliar sua qualidade. Essa característica se concentra no que o software faz para atender às necessidades, enquanto outras 
@@ -12,15 +12,15 @@ combinação de funcionalidade, confiabilidade, usabilidade e eficiência.
 
 Suas subcaracterísticas são:
 
-      - Adequação: Refere-se à capacidade do software em oferecer um conjunto apropriado de funções para as tarefas do usuário.
+      * Adequação: Refere-se à capacidade do software em oferecer um conjunto apropriado de funções para as tarefas do usuário.
 
-      - Acurácia: Diz respeito à capacidade do software em fornecer resultados corretos com o grau de precisão necessário.
+      * Acurácia: Diz respeito à capacidade do software em fornecer resultados corretos com o grau de precisão necessário.
 
-      - Interoperabilidade: Refere-se à capacidade do software em interagir com sistemas especificados, substituindo a compatibilidade para evitar ambiguidades.
+      * Interoperabilidade: Refere-se à capacidade do software em interagir com sistemas especificados, substituindo a compatibilidade para evitar ambiguidades.
 
-      - Segurança de acesso: Diz respeito à capacidade do software em proteger informações contra acesso não autorizado, incluindo dados em transmissão.
+      * Segurança de acesso: Diz respeito à capacidade do software em proteger informações contra acesso não autorizado, incluindo dados em transmissão.
 
-* Confiabilidade 
+:white_check_mark: Confiabilidade 
 
 A Confiabilidade refere-se à capacidade do produto de software em manter um nível de desempenho especificado sob condições determinadas.
 
@@ -34,7 +34,7 @@ violação de sua interface especificada. Isso pode incluir a capacidade de prev
    * Recuperabilidade: Recuperabilidade é a capacidade do software de restabelecer seu nível de desempenho especificado e recuperar os dados afetados no caso de 
 uma falha.
 
-* Usabilidade 
+:white_check_mark: Usabilidade 
 
 A Usabilidade diz respeito à capacidade do produto de software de ser compreendido, aprendido, operado e atraente ao usuário em condições específicas de uso.
 
@@ -51,7 +51,7 @@ aprendizado.
    * Atratividade: é a capacidade do produto de software de ser atraente ao usuário, incluindo atributos de software destinados a torná-lo mais atraente, 
 como o uso de cores e o design gráfico.
 
-* Eficiência 
+:white_check_mark: Eficiência 
 
 Refere-se à capacidade do software de apresentar desempenho adequado em relação aos recursos utilizados, sob condições específicas.
 
@@ -61,9 +61,9 @@ Suas subcaracterísticas são:
 estabelecidas.
    * Utilização de Recursos: Capacidade de usar tipos e quantidades apropriados de recursos durante a execução das funções, incluindo recursos humanos.
 
-* Manutenibilidade 
+:white_check_mark: Manutenibilidade 
 
-Manutenibilidade é a capacidade do produto de software de ser modificado, incluindo correções, melhorias ou adaptações devido a mudanças no ambiente ou nos 
+:white_check_mark: Manutenibilidade é a capacidade do produto de software de ser modificado, incluindo correções, melhorias ou adaptações devido a mudanças no ambiente ou nos 
 requisitos funcionais.
 
 Suas subcaracterísticas são:
@@ -77,7 +77,7 @@ modificadas.
 
       * Testabilidade: é a capacidade do software de permitir que modificações sejam validadas por meio de testes.
 
-* Portabilidade
+:white_check_mark: Portabilidade
 
 Portabilidade é a capacidade do software de ser transferido de um ambiente para outro.
 
