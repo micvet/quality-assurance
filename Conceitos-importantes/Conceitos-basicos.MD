@@ -5,13 +5,7 @@ a serem levados em conta:
 
 ## Conceitos básicos:
 
-* Definições de qualidade: conhecer aspectos fundamentais da qualidade, como confiabilidade, usabilidade, segurança e conformidade com requisitos funcionais e não funcionais.
-* Priorização e técnicas de testes: saber priorizar quais aspectos do software serão testados e quais técnicas serão usadas para garantir a cobertura adequada dos requisitos.
-* Plano de testes e documentação: Desenvolver um plano detalhado que descreve como os testes serão conduzidos. Documentar os resultados dos testes, incluindo casos de teste, resultados de execução e bugs encontrados.
-* Gerenciamento de casos de testes: criar e executar casos de teste que abordem diferentes cenários de uso do software.
-* Taxonomia de testes: classificar os diferentes tipos de testes com base em critérios como o nível de testes (unidade, integração, etc.), o propósito do teste (funcional, não funcional, regressão, etc.) e o tipo do teste (manual, automatizado).
-* Gerenciamento de defeitos: Descrever defeitos identificados durante o processo de teste. Isso envolve atribuir prioridades e gravidades aos defeitos e garantir que as correções sejam verificadas e validadas.
-* Métricas: Medir e monitorar a qualidade do software por meio de métricas relevantes, como taxa de defeitos encontrados, cobertura de teste, tempo médio para correção de defeitos, etc.
+* [Definição de conceitos básicos (https://github.com/micvet/quality-assurance/blob/main/files/resumo-syllabus-ctfl-v4.MD)]
 
 ## Fundamentos de aplicações Web e Redes
 
@@ -37,8 +31,7 @@ a serem levados em conta:
 Padrões de projeto e arquitetura de sistemas
 
 * Conceitos e tipos de padrões
-* Tipos de Arquitetura e
-* Modelagem de sistemas
+* Tipos de Arquitetura e * Modelagem de sistemas
 
 ## Testes automatizados
 
@@ -60,11 +53,12 @@ Padrões de projeto e arquitetura de sistemas
 * Testes integrados à pipeline
 * Device farms e execução remota
 
-Pensando nas características do software
+## Características do software
 
-* Funcionalidade
-* Confiabilidade
-* Usabilidade
-* Eficiência
-* Manutenibilidade
-* Portabilidade
+* [Funcionalidade](Conceitos-importantes/caracteristicas-do-software.MD)
+* [Confiabilidade](Conceitos-importantes/caracteristicas-do-software.MD)
+* [Usabilidade](Conceitos-importantes/caracteristicas-do-software.MD)
+* [Eficiência](Conceitos-importantes/caracteristicas-do-software.MD)
+* [Manutenibilidade](Conceitos-importantes/caracteristicas-do-software.MD)
+* [Portabilidade](Conceitos-importantes/caracteristicas-do-software.MD)
+
