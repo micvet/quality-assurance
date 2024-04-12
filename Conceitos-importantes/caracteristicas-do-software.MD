@@ -12,13 +12,13 @@ combinação de funcionalidade, confiabilidade, usabilidade e eficiência.
 
 Suas subcaracterísticas são:
 
-      * Adequação: Refere-se à capacidade do software em oferecer um conjunto apropriado de funções para as tarefas do usuário.
+* Adequação: Refere-se à capacidade do software em oferecer um conjunto apropriado de funções para as tarefas do usuário.
 
-      * Acurácia: Diz respeito à capacidade do software em fornecer resultados corretos com o grau de precisão necessário.
+* Acurácia: Diz respeito à capacidade do software em fornecer resultados corretos com o grau de precisão necessário.
 
-      * Interoperabilidade: Refere-se à capacidade do software em interagir com sistemas especificados, substituindo a compatibilidade para evitar ambiguidades.
+* Interoperabilidade: Refere-se à capacidade do software em interagir com sistemas especificados, substituindo a compatibilidade para evitar ambiguidades.
 
-      * Segurança de acesso: Diz respeito à capacidade do software em proteger informações contra acesso não autorizado, incluindo dados em transmissão.
+* Segurança de acesso: Diz respeito à capacidade do software em proteger informações contra acesso não autorizado, incluindo dados em transmissão.
 
 :white_check_mark: Confiabilidade 
 
@@ -26,12 +26,12 @@ A Confiabilidade refere-se à capacidade do produto de software em manter um ní
 
 Suas subcaracterísticas são:
 
-   * Maturidade: Maturidade é a capacidade do software de evitar falhas decorrentes de defeitos no próprio software.
+* Maturidade: Maturidade é a capacidade do software de evitar falhas decorrentes de defeitos no próprio software.
 
-   * Tolerância a falhas: Tolerância a falhas é a capacidade do software de manter um nível de desempenho especificado mesmo diante de defeitos no software ou 
+* Tolerância a falhas: Tolerância a falhas é a capacidade do software de manter um nível de desempenho especificado mesmo diante de defeitos no software ou 
 violação de sua interface especificada. Isso pode incluir a capacidade de prevenção a falhas.
 
-   * Recuperabilidade: Recuperabilidade é a capacidade do software de restabelecer seu nível de desempenho especificado e recuperar os dados afetados no caso de 
+* Recuperabilidade: Recuperabilidade é a capacidade do software de restabelecer seu nível de desempenho especificado e recuperar os dados afetados no caso de 
 uma falha.
 
 :white_check_mark: Usabilidade 
@@ -40,15 +40,15 @@ A Usabilidade diz respeito à capacidade do produto de software de ser compreend
 
 Suas subcaracterísticas são:
 
-   * Inteligibilidade: refere-se à capacidade do software de possibilitar ao usuário compreender se o software é apropriado e como pode ser usado para tarefas 
+* Inteligibilidade: refere-se à capacidade do software de possibilitar ao usuário compreender se o software é apropriado e como pode ser usado para tarefas 
 específicas, levando em consideração a documentação e as primeiras impressões oferecidas pelo software.
 
-   * Apreensibilidade: é a capacidade do software de possibilitar ao usuário aprender sua aplicação, incluindo atributos internos correspondentes à adequação ao 
+* Apreensibilidade: é a capacidade do software de possibilitar ao usuário aprender sua aplicação, incluindo atributos internos correspondentes à adequação ao 
 aprendizado.
 
-   * Operacionalidade: Operacionalidade refere-se à capacidade do software de possibilitar ao usuário operá-lo e controlá-lo de forma eficiente.
+* Operacionalidade: Operacionalidade refere-se à capacidade do software de possibilitar ao usuário operá-lo e controlá-lo de forma eficiente.
 
-   * Atratividade: é a capacidade do produto de software de ser atraente ao usuário, incluindo atributos de software destinados a torná-lo mais atraente, 
+* Atratividade: é a capacidade do produto de software de ser atraente ao usuário, incluindo atributos de software destinados a torná-lo mais atraente, 
 como o uso de cores e o design gráfico.
 
 :white_check_mark: Eficiência 
@@ -57,9 +57,9 @@ Refere-se à capacidade do software de apresentar desempenho adequado em relaç�
 
 Suas subcaracterísticas são:
 
-   * Comportamento em Relação ao Tempo: Capacidade de fornecer tempos de resposta e processamento apropriados durante a execução das funções, sob condições 
+* Comportamento em Relação ao Tempo: Capacidade de fornecer tempos de resposta e processamento apropriados durante a execução das funções, sob condições 
 estabelecidas.
-   * Utilização de Recursos: Capacidade de usar tipos e quantidades apropriados de recursos durante a execução das funções, incluindo recursos humanos.
+* Utilização de Recursos: Capacidade de usar tipos e quantidades apropriados de recursos durante a execução das funções, incluindo recursos humanos.
 
 :white_check_mark: Manutenibilidade 
 
@@ -68,14 +68,14 @@ requisitos funcionais.
 
 Suas subcaracterísticas são:
 
-      * Analisabilidade: é a capacidade do software de permitir o diagnóstico de deficiências ou causas de falhas, bem como a identificação de partes a serem 
+* Analisabilidade: é a capacidade do software de permitir o diagnóstico de deficiências ou causas de falhas, bem como a identificação de partes a serem 
 modificadas.
 
-      * Modificabilidade: é a capacidade do software de permitir a implementação de modificações especificadas, incluindo alterações no código, projeto e documentação. Se o software for modificável pelo usuário final, isso pode afetar sua operacionalidade.
+* Modificabilidade: é a capacidade do software de permitir a implementação de modificações especificadas, incluindo alterações no código, projeto e documentação. Se o software for modificável pelo usuário final, isso pode afetar sua operacionalidade.
 
-      * Estabilidade: é a capacidade do software de evitar efeitos inesperados decorrentes de modificações realizadas.
+* Estabilidade: é a capacidade do software de evitar efeitos inesperados decorrentes de modificações realizadas.
 
-      * Testabilidade: é a capacidade do software de permitir que modificações sejam validadas por meio de testes.
+* Testabilidade: é a capacidade do software de permitir que modificações sejam validadas por meio de testes.
 
 :white_check_mark: Portabilidade
 
@@ -83,14 +83,14 @@ Portabilidade é a capacidade do software de ser transferido de um ambiente para
 
 Suas subcaracterísticas são:
 
-      * Adaptabilidade: é a capacidade do software de ser adaptado para diferentes ambientes especificados sem a necessidade de outras ações ou meios além dos 
+* Adaptabilidade: é a capacidade do software de ser adaptado para diferentes ambientes especificados sem a necessidade de outras ações ou meios além dos 
 fornecidos pelo próprio software. Isso inclui ajustes internos, como campos de tela, tabelas e formato de relatórios. Se o software for adaptável pelo usuário 
 final, isso pode afetar sua operacionalidade.
-      * Capacidade para Ser Instalado: é a capacidade do software de ser instalado em um ambiente específico. Se o software for instalável pelo usuário final, 
+* Capacidade para Ser Instalado: é a capacidade do software de ser instalado em um ambiente específico. Se o software for instalável pelo usuário final, 
 essa capacidade afetará sua adequação e operacionalidade.
-      * Coexistência: é a capacidade do software de operar junto com outros produtos de software independentes em um ambiente compartilhado, compartilhando recursos 
+* Coexistência: é a capacidade do software de operar junto com outros produtos de software independentes em um ambiente compartilhado, compartilhando recursos 
 comuns.
-      * Capacidade para Substituir: é a capacidade do software de ser usado em substituição a outro produto de software especificado, com o mesmo propósito e no mesmo ambiente.  
+* Capacidade para Substituir: é a capacidade do software de ser usado em substituição a outro produto de software especificado, com o mesmo propósito e no mesmo ambiente.  
 
 
 <br>Em resumo, as características de qualidade do software envolvem sua capacidade de atender às necessidades do usuário (funcionalidade), sua confiabilidade em 
