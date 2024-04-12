@@ -63,7 +63,7 @@ estabelecidas.
 
 :white_check_mark: Manutenibilidade 
 
-:white_check_mark: Manutenibilidade é a capacidade do produto de software de ser modificado, incluindo correções, melhorias ou adaptações devido a mudanças no ambiente ou nos 
+Manutenibilidade é a capacidade do produto de software de ser modificado, incluindo correções, melhorias ou adaptações devido a mudanças no ambiente ou nos 
 requisitos funcionais.
 
 Suas subcaracterísticas são:
