@@ -24,4 +24,3 @@ O Cypress também ajuda a configurar e começar a escrever testes diariamente en
 * Oferece suporte para várias linguagens de programação.
 * Tem uma abordagem mais tradicional e requer a configuração de várias ferramentas separadas para começar a escrever testes.
 
-Em resumo, enquanto o Cypress é mais moderno, integrado e fácil de usar, o Selenium é mais tradicional e oferece uma gama mais ampla de suporte para linguagens de programação. A escolha entre eles depende das necessidades específicas do projeto e das preferências da equipe de desenvolvimento.
